@@ -106,7 +106,11 @@ I love turning ideas into scalable products — from **AI-powered applications**
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=krushil298&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krushil298&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krushil298&theme=tokyo-night" alt="Activity Graph">
 </p>
 
 ---
