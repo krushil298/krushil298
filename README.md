@@ -86,7 +86,7 @@ I love turning ideas into scalable products — from **AI-powered applications**
 - 🥇 **Winner** – Code Relay (FOSS Club), CTF & TagX (Cloud Club)  
 - 🏅 **Winner** – Ignite Presentation by *Futurense Technologies*  
 - 🚀 Participated in *Inceptrix*, *SIH 2025*, *Build with India*, and *JU Hackathon '25*  
-- 💡 Selected for internal hackathon representing **SIH 2025**
+- 💡 Selected in internal hackathon for **SIH 2025**
 
 ---
 
