@@ -1,129 +1,125 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm <span style="color:#0078ff;">Krushil Uchadadia</span></h1>
-<h3 align="center">🚀 Computer Science Student | AI & Data Engineering | Freelance Developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2980,100:26d0ce&height=200&section=header&text=Krushil%20Uchadadia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=builds%20things%20that%20actually%20go%20live&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
-  <a href="mailto:krushiluchadadia@gmail.com"><img src="https://img.shields.io/badge/Email-krushiluchadadia%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/krushiluchadadia/"><img src="https://img.shields.io/badge/LinkedIn-Krushil_Uchadadia-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/krushil298"><img src="https://img.shields.io/badge/GitHub-krushil298-black?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/krushiluchadadia/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:krushiluchadadia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=krushil298&style=for-the-badge&color=26d0ce&label=PROFILE+VIEWS"/>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krushil298&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+```bash
+$ whoami
+```
+
+CS student in Bangalore who'd rather ship the thing than write a paragraph about
+shipping the thing. Most of my hours go into **freelance full-stack work** — real
+clients, real deadlines, real 2 a.m. "why is the server down" moments. The rest
+goes to **CTFs**, side projects, and running my university's DATA.AI club.
+
+I published my first package to PyPI before I published my first LinkedIn flex,
+and I think that's the right order.
+
+```bash
+$ cat currently.txt
+```
+
+- 🔨 &nbsp;building backend systems with **Python** &amp; **Node**
+- 🧠 &nbsp;going deeper on **system design** and **DSA**
+- 🚩 &nbsp;grinding **CTFs** because breaking things teaches you how to build them
+- 📦 &nbsp;maintaining **DecryptX** on PyPI
+
+---
+
+### 🧰 &nbsp; the toolbox
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white"/>
+</p>
+<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/CrewAI-FF5A5F?style=flat-square"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white"/>
 </p>
 
 ---
 
-## 🧠 About Me  
-💡 I’m a **Computer Science student** specializing in **Artificial Intelligence and Data Engineering**, passionate about building impactful tech solutions that blend innovation with real-world utility.  
-I love turning ideas into scalable products — from **AI-powered applications** to **data-driven platforms** and **end-to-end web solutions**.
+### 🧪 &nbsp; stuff I've built
+
+**📦 DecryptX** — a PyPI package that runs a data-cleaning competition: weighted scoring + anti-cheat logic. My first published package.
+
+**🛍️ Blink &amp; Blush** — a cosmetics e-commerce platform running in production. REST APIs, Razorpay payments, MySQL, and a server I deploy and break and fix myself (Nginx + PM2 on a VPS).
+
+**🤖 AI Assistants** — a RAG assistant, a multi-agent research assistant, and a mental-health assistant, wired up with LangChain / CrewAI / LangGraph.
+
+**🌱 FarmEase** — AI for farmers (crop recommendation, disease prediction, schemes). Won an ideathon with it.
+
+> 🔗 _repo links going up as I open-source these — watch this space._
 
 ---
 
-## ⚙️ Skills  
+### 🏆 &nbsp; trophy cabinet
 
-### 💻 Programming & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+<table>
+<tr><td>🥇</td><td><b>1st</b> — CODE MANIA Coding Competition</td><td>🥇</td><td><b>1st</b> — Capture The Flag (CTF)</td></tr>
+<tr><td>🥇</td><td><b>1st</b> — Squid Game Coding Challenge</td><td>🥇</td><td><b>1st</b> — "The Blind Date" Hackathon</td></tr>
+<tr><td>🥇</td><td><b>1st</b> — Escape Room Challenge</td><td>🏅</td><td><b>Winner</b> — GRINOVA Ideathon (Top 12 / 175)</td></tr>
+</table>
 
-### 📊 Data Science & Analytics  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-7C96B0?style=for-the-badge)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+<details>
+<summary><b>&nbsp;…and a couple of close ones</b></summary>
+<br>
 
-### 🧰 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- 🥈 &nbsp;2nd — TAGX 2K25 Tech Competition
+- 🥈 &nbsp;2nd — Hack &amp; Crack (lost 1st by total time, both teams solved all 8 — still salty)
+- 🖐️ &nbsp;Top 5 — Inceptrix 2.0 National Hackathon
+
+</details>
 
 ---
 
-## 💼 Experience  
-
-### 🧩 **Freelance Software Developer & Data Scientist**  
-*(2025 - Present)*  
-- Built and deployed scalable backends for **caribbeanemarket.com** and **IWS Hygiene**.  
-- Managed and migrated **xqm.xtour.com.au**, optimizing hosting and fixing web issues.  
-- Developed a **Chrome Extension** for *shopper.fitcheckit.com* enabling cross-site wishlists.  
-- Created **IBKR Report Analysis** and **Financial Reconciliation Systems** for clients.  
-- Managed **digital marketing & social strategy** for *The Core PMC* to boost brand visibility.
-
----
-
-## 💡 Featured Projects  
-
-### 🛒 [Caribbean eMarket](https://caribbeanemarket.com)  
-> Full-scale **e-commerce platform** with backend, database, and hosting setup for production-ready deployment.  
-**Tech:** Flask, MySQL, JavaScript, HTML/CSS, Vercel  
-
-### 🧴 [IWS Hygiene (E-commerce Platform)](https://github.com/krushil298/iws-hygiene)  
-> Scalable online store enhancing user experience and managing product data efficiently.  
-**Tech:** HTML, CSS, JS, Flask, MongoDB  
-
-### 🧩 [FitCheckIt Chrome Extension](https://shopper.fitcheckit.com)  
-> Custom Chrome extension enabling **universal wishlist integration** across websites.  
-**Tech:** JavaScript, Chrome APIs  
-
-### 📊 [IBKR Report Analysis & Financial Reconciliation System]  
-> Developed an internal **data analysis system** for reconciling financial reports and generating dashboards.  
-**Tech:** Python, Pandas, Tableau  
-
----
-
-## 🏆 Achievements  
-
-- 🧠 **President** – DATA.AI Club, Jain University  
-- 🥇 **Winner** – Code Relay (FOSS Club), CTF & TagX (Cloud Club)  
-- 🏅 **Winner** – Ignite Presentation by *Futurense Technologies*  
-- 🚀 Participated in *Inceptrix*, *SIH 2025*, *Build with India*, and *JU Hackathon '25*  
-- 💡 Selected in internal hackathon for **SIH 2025**
-
----
-
-## 🎓 Education  
-
-**B.Tech in Computer Science and Engineering (AIDE)**  
-📍 *Jain (Deemed-to-be University), Bangalore*  
-📆 *2023 – 2027* | **CGPA: 8.6**
-
----
-
-## 📈 GitHub Stats  
+### 📊 &nbsp; the receipts
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krushil298&show_icons=true&theme=tokyonight" height="180em">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushil298&layout=compact&theme=tokyonight" height="180em">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=krushil298&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushil298&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.mukesh.codes?user=krushil298&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats">
+  <img src="https://github-profile-trophy.vercel.app/?username=krushil298&theme=tokyonight&no-frame=true&column=7&margin-w=8"/>
 </p>
+
+<!-- Snake animation: needs the one-time GitHub Action below (see notes). -->
+<picture>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/krushil298/krushil298/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krushil298&custom_title=Krushil's%20Contribution%20Graph&bg_color=1a1b27&color=70a5fd&line=38bdae&point=ffffff&area=true&hide_border=true" alt="Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=krushil298&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
-
 
 ---
 
-## 🌟 Quote  
-> “Turning ideas into reality through technology.”
-
----
-
-## 📬 Connect With Me  
-<p align="left">
-  <a href="mailto:krushiluchadadia@gmail.com"><img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/krushiluchadadia/"><img src="https://img.shields.io/badge/LinkedIn-Krushil_Uchadadia-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/krushil298"><img src="https://img.shields.io/badge/GitHub-krushil298-black?style=for-the-badge&logo=github"></a>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:26d0ce,100:1a2980&height=120&section=footer" width="100%"/>
