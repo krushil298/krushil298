@@ -13,7 +13,7 @@
 ```yaml
 krushil@github
 ──────────────────────────────
-  OS        : Arch of building things   # (Linux btw)
+  OS        : Arch of building things   
   Host      : Bangalore, IN
   Uptime    : B.Tech CSE — AIDE · 9.0 GPA · '23→'27
   Shell     : Python · Node · entirely too much coffee
@@ -105,7 +105,7 @@ AI for farmers — crop recommendation, disease prediction, schemes. Won an idea
 ### &nbsp; the receipts 📊
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krushil298&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=krushil298&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krushil298&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 </p>
 
